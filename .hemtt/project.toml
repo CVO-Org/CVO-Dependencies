@@ -1,11 +1,11 @@
-mainprefix = "~MAINPREFIX~"     # Ideally, replace "~MAINPREFIX~" across the whole repo with your mod's mainprefix, example "t" (without the "")
-prefix = "~PREFIX~"             # Ideally, replace "~PREFIX~" across the whole repo with your mod's prefix, example "mod" (without the "") 
+mainprefix = "zrn"     # Ideally, replace "zrn" across the whole repo with your mod's mainprefix, example "t" (without the "")
+prefix = "cvo_dependency"             # Ideally, replace "cvo_dependency" across the whole repo with your mod's prefix, example "mod" (without the "") 
 
-name = "Example Mod"
+name = "CVO Dependencies"
 
 [properties]
-author = "Derp Derpington"
-url = "https://github.com/Derpington"
+author = "Overlord Zorn"
+url = "https://github.com/A3-CVO/cvo-dependencies"
 
 [binarize]
 enabled = true # Default: true
