@@ -17,7 +17,7 @@ description     = "CVO Dependencies - This mod does nothing. Only for steam work
 action          = "http://discord.chornivoron.net/";                                                                                                // Website URL, that can accessed from the expansions menu 
 actionName      = "Discord";                                                                                                                        // label of button/tooltip in extension menu
 
-overviewPicture = "voron_round_olive_texture_1024.paa";
+overviewPicture = "img\flag_voron_red_1024_2048.paa";
 overviewText = "CVO Dependencies - This mod does nothing. Only for steam workshop dependencies";
 
 overviewFootnote = "CVO Dependencies - This mod does nothing. Only for steam workshop dependencies";
