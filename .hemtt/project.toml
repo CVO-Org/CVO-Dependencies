@@ -1,11 +1,11 @@
-mainprefix = "zrn"     # Ideally, replace "zrn" across the whole repo with your mod's mainprefix, example "t" (without the "")
-prefix = "cvo_dependency"             # Ideally, replace "cvo_dependency" across the whole repo with your mod's prefix, example "mod" (without the "") 
+mainprefix = "cvo"
+prefix = "cvo_dependency"
 
 name = "CVO Dependencies"
 
 [properties]
 author = "Overlord Zorn"
-url = "https://github.com/A3-CVO/cvo-dependencies"
+url = "https://github.com/CVO-Org/CVO-Dependencies"
 
 [binarize]
 enabled = true # Default: true

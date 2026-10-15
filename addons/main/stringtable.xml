@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="mod-template">
+<Project name="cvo_dependency">
     <Package name="Main">
-        <Key ID="STR_mod_author">
+        <Key ID="STR_cvo_dependency_main_author">
             <English>OverlordZorn</English>
         </Key>
-        <Key ID="STR_mod_URL">
-            <English>https://github.com/A3-CVO/cvo-dependencies</English>
+        <Key ID="STR_cvo_dependency_main_url">
+            <English>https://github.com/CVO-Org/CVO-Dependencies</English>
         </Key>
     </Package>
 </Project>
